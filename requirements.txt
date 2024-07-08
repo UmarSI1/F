@@ -4,3 +4,4 @@ streamlit
 pandas
 textwrap3
 azure-storage-blob
+tqdm
